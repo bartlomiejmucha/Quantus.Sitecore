@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$title$</title>
+        <authors>Bartłomiej Mucha</authors>
+        <owners>Bartłomiej Mucha</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/bartlomiejmucha/Quantus.Sitecore</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Quantus integration for Sitecore.</description>
+        <copyright>Copyright 2017</copyright>
+        <tags>sitecore plural</tags>
+    </metadata>
+    <files>
+        <file src="App_Config\Include\*" target="content\App_Config\Include" />
+    </files>
+</package>
